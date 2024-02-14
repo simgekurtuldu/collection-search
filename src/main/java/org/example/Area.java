@@ -1,6 +1,4 @@
 package org.example;
-
-
 public class Area <T> {
     final T area;
 

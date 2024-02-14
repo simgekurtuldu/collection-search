@@ -1,9 +1,8 @@
 package org.example;
 
-import java.util.List;
 
 public class Area <T> {
-    private T area;
+    final T area;
 
     public Area(T area){
         this.area = area;
